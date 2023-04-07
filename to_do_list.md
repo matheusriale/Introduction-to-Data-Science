@@ -1,6 +1,4 @@
 ## To do List:
 
-- Remove or deal with outliers;
-- Adjust model to pick up more parameters;
 - Test with dummies on ocean proximity and with mapping;
 
